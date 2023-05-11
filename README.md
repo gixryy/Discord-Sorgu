@@ -10,7 +10,7 @@
 
 ## Yapimcilar
 - [Discord](https://discord.gg/perlaservis) sunucumuzda bulabilirsiniz.
-- Discord: Atahan#8888 veya Atahan#9999
+- Discord: Atahan#8888 veya Atahan#9999 / Hoster#1000
 
-## Not:
+## Not
 - Configdeki apiler için [Discord](https://discord.gg/perlaservis) sunucusuna gelip almaniz tavsiye edilir.
