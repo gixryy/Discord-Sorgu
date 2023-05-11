@@ -10,4 +10,4 @@
 
 ## Yapimcilar
 - [Discord](https://discord.gg/perlaservis) sunucumuzda bulabilirsiniz.
-- [Atahan#8888](https://discord.com/users/783759784306147340) hesabim.
+- Discord nickim: Atahan#8888 veya Atahan#9999
