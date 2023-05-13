@@ -5,12 +5,13 @@
 
 ## Kurulum
 1. [NodeJS](https://nodejs.org/tr/) kurun.
-2. [Discord Developer](https://discord.com/developers/applications) sitesinden bot olusturup token almak.
+2. [Discord Developer](https://discord.com/developers/applications) sitesinden bot olusturup token almak
+3. "config.js" doldurmak.
 3. "baslat.bat" dosyasini çalistirmak.
 
 ## Yapimcilar
 - [Discord](https://discord.gg/perlaservis) sunucumuzda bulabilirsiniz.
-- Discord: Atahan#8888 veya Atahan#9999 / Hoster#1000
+- Discord: Atahan#8888 / Hoster#1000
 
 ## Not
 - Configdeki apiler için [Discord](https://discord.gg/perlaservis) sunucusuna gelip almaniz tavsiye edilir.
