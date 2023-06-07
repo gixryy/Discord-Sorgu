@@ -1,18 +1,18 @@
 ﻿module.exports = {
 
-    token: "", //Bot tokeni
-    owners: [""], //Bot sahipleri
+    token: "",''MTA1NjI2MTUxMDM3NDA5Njk0Ng.GU9Lyq.jd9OHT4lzX6ntHALF6ypqKwJ1xs8ulrV_yKwYo '' 
+    owners: [""],''Giray'' 
     guildID: "",
 
     roller: {
 
-        SORGUCU: "1087505959007567872", //Sorgucu rolü
+        SORGUCU: "1087505959007567872",''HEKİMANLI'' //Sorgucu rol
 
     },
 
     emojiler: {
 
-        UPLOAD: "" || "📑", //Upload emojisi
+        UPLOAD: "" || "📑",''👨🏿''
 
     },
     
